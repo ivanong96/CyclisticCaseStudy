@@ -100,11 +100,12 @@ The graph reveals that the majority of Cyclistics members primarily utilize the 
 
 ![image](https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/66297118-7443-4b05-a549-277cb37e3db0)
 
-![image](https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/883b0d21-9ba0-4c7a-98b5-cc5479c053d5)
+<img src="https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/883b0d21-9ba0-4c7a-98b5-cc5479c053d5" width = "766" height = "448">
+
 
 Both Cyclistic members and casual riders demonstrate a preference for riding during the spring and summer seasons, spanning from May to September. However, ride frequency begins to decline as temperatures drop, leading people to take fewer rides.
 
-![image](https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/ab4e3bec-e2f3-41fc-8738-e19361210be8)
+<img src="https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/ab4e3bec-e2f3-41fc-8738-e19361210be8" width = "766" height = "448">
 
 ## 4. Share Phase 
 The outcomes are communicated with stakeholders. The execution stage of this project was carried out utilizing SQL on Google Cloud BigQuery for analysis and Looker Studio for data visualization. Dashboard is created with visualizations to present relevant information to the stakeholders.
