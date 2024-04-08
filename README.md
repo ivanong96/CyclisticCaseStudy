@@ -92,25 +92,26 @@ The data is then cleaned by:
 ## 3. Analyse Phase 
 The total number of rides in 2023 carried out by Cyclistic members and casual riders  is displayed as below. Cyclistic member recorded a greater bicycle activity than casual riders. The total rides for member are 3,480,623 while for causal riders is 1,975,161. Cylicstic member accounted for 63.8% of total rides while casual riders accounted for the remaning 36.2%.
 
-![image](https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/540ac0db-433e-427f-a615-95944f3f6caa)
+![Screenshot 2024-03-20 181026](https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/7b594376-7e2d-495c-a532-aa38c5bb980b)
 
-![image](https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/08dc6d88-80b6-4f72-9d74-1751ef30f13a)
+![Percentage](https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/f3b8efed-673b-4431-af3d-885208750c96)
 
 The graph reveals that the majority of Cyclistics members primarily utilize the services for commuting to and from work, evidenced by the peak ride times occurring at approximately 8am and 5pm. In contrast, casual riders tend to use the service primarily for leisure with the highest number of rides occurring around 5pm. Additionally, the total rides(weekly) graph provides further evidence, indicating that members tend to have higher ride frequencies during the weekdays whereas casual riders have higher counts during the weekends.
 
-![image](https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/66297118-7443-4b05-a549-277cb37e3db0)
+<img src="https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/244809ca-7a97-4e70-9e8a-1e0bb48f2cf3">
 
-<img src="https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/883b0d21-9ba0-4c7a-98b5-cc5479c053d5" width = "766" height = "448">
 
+![Total Rides (hourly)](https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/07a032f3-b194-403e-b87d-34e7fa44a09e)
 
 Both Cyclistic members and casual riders demonstrate a preference for riding during the spring and summer seasons, spanning from May to September. However, ride frequency begins to decline as temperatures drop, leading people to take fewer rides.
 
-<img src="https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/ab4e3bec-e2f3-41fc-8738-e19361210be8" width = "766" height = "448">
+![Total Rides (Monthly)](https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/81ba8dbe-ac8d-40a0-af65-bcf3191a4ce7)
 
 ## 4. Share Phase 
 The outcomes are communicated with stakeholders. The execution stage of this project was carried out utilizing SQL on Google Cloud BigQuery for analysis and Looker Studio for data visualization. Dashboard is created with visualizations to present relevant information to the stakeholders.
 
-![image](https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/a188ccd2-81af-480f-8f34-53339aed086b)
+![Bike Share](https://github.com/ivanong96/CyclisticCaseStudy/assets/81286426/b7476293-858e-4608-bb0a-cb550174c997)
+
 
 ## 5. Act Phase 
 Here are few recommendations according to the analysis above. We can design a marketing strategy that target to casual riders into Cyclistic members.
